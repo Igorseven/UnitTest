@@ -6,4 +6,4 @@ Usando o conceito de paralelismo nos teste de unidade com XUnit.
 Objetos do domínio com encapsulamento privado para alterações, somente o próprio objeto pode se validar e se alterar
 
 # Notification Pattern
-Padrão notification evita o uso de exceptions que tem um alto custo
+Este padrão evita o uso de exceptions que tem um alto custo
